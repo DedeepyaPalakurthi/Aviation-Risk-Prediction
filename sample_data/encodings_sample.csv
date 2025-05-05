@@ -1,0 +1,11 @@
+Feature,Key,Value,Numerical_Encoding,Description
+type_last_insp,100H,100 Hour,1,Routine inspection every 100 flight hours.
+type_last_insp,UNK,Unknown,6,Inspection type is not recorded or is unknown.
+light_cond,NBRT,Night/Bright,4,"Night conditions with bright lighting (e.g., airport lighting)."
+acft_category,BALL,Balloon,3,Hot air or gas-filled balloon used for flight.
+ev_nr_apt_loc,ONAP,On Airport,1,The event occurred at or within the airport boundary.
+wx_cond_basic,VMC,Visual Meteorological Conditions,2,Conditions allowing flight by visual reference.
+light_cond,DAWN,Dawn,1,Low light conditions during sunrise.
+light_cond,NDRK,Night/Dark,5,Night conditions with little or no lighting.
+sky_cond_nonceil,OVCT,Thin Overcast,4,Thin layer of overcast clouds.
+acft_category,GLI,Glider,2,Aircraft without an engine that relies on lift and thermals.
