@@ -96,7 +96,7 @@ Evaluation focused on F1 score, confidence calibration, and interpretability.
    ```
 3. Run:
    - `notebooks/Data_Preparation.ipynb`
-   - `notebooks/Modeling-4.ipynb`
+   - `notebooks/Modeling.ipynb`
 
 Use `sample_data/` for testing.
 
