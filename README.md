@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="outputs/banner.png" width="100%">
+  <img src="resources/banner.png" width="100%">
 </p>
 
 # Predicting Aviation Risk: Explainable Injury and Damage Classification
