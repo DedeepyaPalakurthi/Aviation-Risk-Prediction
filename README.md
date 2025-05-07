@@ -14,7 +14,7 @@ This project leverages machine learning and deep learning models to classify **a
   - (a) injury severity levels, and
   - (b) aircraft damage severity
 
-- Which predictive factors in the NTSB dataset significantly impact the prediction of injury or damage levels, as identified quantitatively via **LIME/SHAP**?
+- Which predictive factors in the NTSB dataset significantly impact the prediction of injury or damage levels, as identified quantitatively via **LIME**?
 
 - How consistent is the performance (via accuracy and confidence intervals) of the best-performing models (macro F1-score) across data stratifications like aircraft types, time periods, and weather?
 
